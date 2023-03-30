@@ -11,18 +11,18 @@ Vitor Costa Gosmão
 
 Yuri Borges Sena
 
-#Informações sobre o código 
-##Descrição
+# Informações sobre o código 
+## Descrição
 
 O código em C implementa o problema das N-Rainhas, que consiste em posicionar N rainhas em um tabuleiro de NxN de modo que elas não se ataquem.
 
-##Como compilar o código
+## Como compilar o código
 
 Para compilar o código em C, execute o seguinte comando em um terminal:
 
 `gcc nrainhas.c -fopenmp`
 
-##Como executar o código
+## Como executar o código
 
 Para executar o código, utilize o seguinte comando:
 
