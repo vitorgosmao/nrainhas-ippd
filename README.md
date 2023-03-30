@@ -32,4 +32,4 @@ Exemplo de uso
 
 Para posicionar 8 rainhas utilizando 2 threads, execute o seguinte comando:
 
-`./nqueens 8 2`
+`./nrainhas 8 2`
