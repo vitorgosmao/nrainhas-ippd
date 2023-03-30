@@ -1,0 +1,72 @@
+Entrada: 5 rainhas, 0 threads
+Execu��o 1/1
+Tempo de execução: 0 segundos
+Soluções encontradas: 10
+
+
+Entrada: 7 rainhas, 0 threads
+Execu��o 1/1
+Tempo de execução: 0.0780001 segundos
+Soluções encontradas: 40
+
+
+Entrada: 9 rainhas, 0 threads
+Execu��o 1/1
+Tempo de execução: 47.728 segundos
+Soluções encontradas: 352
+
+
+Entrada: 5 rainhas, 2 threads
+Execu��o 1/1
+Tempo de execução: 0.000999928 segundos
+Soluções encontradas: 10
+
+
+Entrada: 7 rainhas, 2 threads
+Execu��o 1/1
+Tempo de execução: 0.0430002 segundos
+Soluções encontradas: 40
+
+
+Entrada: 9 rainhas, 2 threads
+Execu��o 1/1
+Tempo de execução: 25.368 segundos
+Soluções encontradas: 352
+
+
+Entrada: 5 rainhas, 4 threads
+Execu��o 1/1
+Tempo de execução: 0 segundos
+Soluções encontradas: 10
+
+
+Entrada: 7 rainhas, 4 threads
+Execu��o 1/1
+Tempo de execução: 0.0189998 segundos
+Soluções encontradas: 40
+
+
+Entrada: 9 rainhas, 4 threads
+Execu��o 1/1
+Tempo de execução: 14.052 segundos
+Soluções encontradas: 352
+
+
+Entrada: 5 rainhas, 8 threads
+Execu��o 1/1
+Tempo de execução: 0.000999928 segundos
+Soluções encontradas: 10
+
+
+Entrada: 7 rainhas, 8 threads
+Execu��o 1/1
+Tempo de execução: 0.016 segundos
+Soluções encontradas: 40
+
+
+Entrada: 9 rainhas, 8 threads
+Execu��o 1/1
+Tempo de execução: 9.114 segundos
+Soluções encontradas: 352
+
+
