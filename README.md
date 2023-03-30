@@ -26,10 +26,10 @@ Para compilar o código em C, execute o seguinte comando em um terminal:
 
 Para executar o código, utilize o seguinte comando:
 
-`/a.exe "tamanhoDoTabuleiro=numDeRainhas" "numeroDeThreads"`
+`./a.exe "tamanhoDoTabuleiro=numDeRainhas" "numeroDeThreads"`
 
 Exemplo de uso
 
 Para posicionar 8 rainhas utilizando 2 threads, execute o seguinte comando:
 
-`./nrainhas 8 2`
+`./a.exe 8 2`
