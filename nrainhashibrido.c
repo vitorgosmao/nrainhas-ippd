@@ -9,7 +9,7 @@
 
 int verificaSolucao(int n, int max_queens, int queen_rows[max_queens])
 {
-    int i, j;
+    long int i, j;
     for (i = 0; i < n; i++)
     {
         for (j = i+1; j < n; j++)
@@ -24,7 +24,8 @@ int verificaSolucao(int n, int max_queens, int queen_rows[max_queens])
 
 int main(int argc, char *argv[])
 {
-    int n, max_iter, max_queens, rank, size, i, iter;
+    unsigned long int n, max_iter, max_queens, i, iter;
+    int rank, size; 
     double start_time, end_time;
     int number_solutions = 0;
 
@@ -46,7 +47,7 @@ int main(int argc, char *argv[])
 #pragma omp parallel for private(iter)
     for (iter = rank; iter < max_iter; iter += size)
     {
-        int code = iter;
+        unsigned long int code = iter;
         int i;
         int queen_rows[max_queens];
 
